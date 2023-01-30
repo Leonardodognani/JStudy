@@ -9,3 +9,4 @@
 - Console & Node
 - Variáveis com let;
 - Constantes com const;
+- Exercício const e let;
