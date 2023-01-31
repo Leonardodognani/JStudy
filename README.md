@@ -13,3 +13,4 @@
 - Lets vs Var, primeira diferença;
 - Tipos de dados primitivos;
 - Operadores aritméticos, de atribuição e de incremento;
+- Alert, confirm e prompt (navegador);
