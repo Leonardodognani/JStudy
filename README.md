@@ -10,3 +10,5 @@
 - Variáveis com let;
 - Constantes com const;
 - Exercício const e let;
+- Lets vs Var, primeira diferença;
+- Tipos de dados primitivos;
