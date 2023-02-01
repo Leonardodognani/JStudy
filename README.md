@@ -14,3 +14,7 @@
 - Tipos de dados primitivos;
 - Operadores aritméticos, de atribuição e de incremento;
 - Alert, confirm e prompt (navegador);
+- Exercício com variáveis;
+- Mais sobre String;
+- Exercícios com string;
+- Mais sobre Number;
