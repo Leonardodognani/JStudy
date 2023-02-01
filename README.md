@@ -19,4 +19,4 @@
 - Exercícios com string;
 - Mais sobre Number;
 - Objeto Math;
-- Exercício com Numbers e Math;
+- Exercício com Numbers e Math (usando document.innerHTML);
