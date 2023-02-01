@@ -18,3 +18,5 @@
 - Mais sobre String;
 - Exercícios com string;
 - Mais sobre Number;
+- Objeto Math;
+- Exercício com Numbers e Math;
