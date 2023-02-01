@@ -20,3 +20,4 @@
 - Mais sobre Number;
 - Objeto Math;
 - Exercício com Numbers e Math (usando document.innerHTML);
+- Arrays (básico);
