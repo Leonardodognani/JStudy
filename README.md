@@ -21,3 +21,5 @@
 - Objeto Math;
 - Exercício com Numbers e Math (usando document.innerHTML);
 - Arrays (básico);
+- Funções (básico);
+- Objetos (básico);
