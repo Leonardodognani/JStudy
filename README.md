@@ -23,3 +23,5 @@
 - Arrays (básico);
 - Funções (básico);
 - Objetos (básico);
+- Valores primitivos e valores por referência;
+- Exercícios para função, array e objetos;
