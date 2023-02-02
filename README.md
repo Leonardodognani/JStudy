@@ -4,6 +4,8 @@
 
 ### Course from Udemy by Luiz Otávio Miranda - 146h
 
+### JavaScript Básico - Para iniciantes
+
 - Console.log
 - Comentários
 - Console & Node
@@ -25,3 +27,7 @@
 - Objetos (básico);
 - Valores primitivos e valores por referência;
 - Exercícios para função, array e objetos;
+
+### JavaScript - Lógica de programação
+
+- Extensões para o VScode;
