@@ -34,3 +34,5 @@
 - Operadores de comparação;
 - Operadores lógicos;
 - Avaliação de Curto Circuito (Short-Circuit);
+- If, else if e else - parte 1;
+- If, else if e else - parte 2;
