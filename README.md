@@ -31,3 +31,6 @@
 ### JavaScript - Lógica de programação
 
 - Extensões para o VScode;
+- Operadores de comparação;
+- Operadores lógicos;
+- Avaliação de Curto Circuito (Short-Circuit);
