@@ -36,3 +36,5 @@
 - Avaliação de Curto Circuito (Short-Circuit);
 - If, else if e else - parte 1;
 - If, else if e else - parte 2;
+- Modelo de HTML e CSS para exercícios posteriores;
+- Exercício (Unindo tudo aprendido até aqui e mais)
