@@ -27,6 +27,7 @@
 - Objetos (básico);
 - Valores primitivos e valores por referência;
 - Exercícios para função, array e objetos;
+- Operador ternário;
 
 ### JavaScript - Lógica de programação
 
