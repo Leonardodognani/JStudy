@@ -72,3 +72,13 @@ form button:hover {
   background-color: green;
   width: fit-content;
 }
+
+.paragrafo-resultado,
+.bad {
+  background: rgb(109, 255, 182);
+  padding: 10px 20px;
+}
+
+.bad {
+  background: rgb(255, 150, 150);
+}

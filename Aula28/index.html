@@ -32,17 +32,17 @@
       </div>
       <h1>Calcule seu IMC</h1>
 
-      <form class="form" action="" method="get">
+      <form class="form" action="" method="POST">
         <label for="peso">Peso:</label>
-        <input type="text" class="peso" />
+        <input type="text" class="peso" name="peso" />
         <label for="altura">Altura:</label>
-        <input type="text" class="altura" />
+        <input type="text" class="altura" name="altura" />
 
-        <button>Calcular</button>
+        <button type="submit">Calcular</button>
       </form>
 
-      <div class="resultado" id="result"></div>
+      <div class="resultado"></div>
     </section>
-    <script src="./assets/js/main.js"></script>
+    <script src="./assets/js/main2.js"></script>
   </body>
 </html>
