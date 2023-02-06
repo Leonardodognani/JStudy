@@ -41,3 +41,4 @@
 - Modelo de HTML e CSS para exercícios posteriores;
 - Exercício (Unindo tudo aprendido até aqui e mais)
 - Exercício (Mantendo ambas as resoluções - professor e a minha);
+- Objeto Date;
