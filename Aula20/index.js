@@ -12,7 +12,7 @@ e tem mais dois que não vimos, mas fazem parte da lista:
 
 let a = "A";
 let b = a;
-console.log(b); // aqui, b é igaul a a ('A').
+console.log(b); // aqui, b é igual a a ('A').
 
 a = "outra coisa";
 console.log(a, b); //aqui, b e a são independentes e não apontam pro mesmo valor na memória, apenas é criada uma cópia de a quando atribuímos b. Mas apenas no momento da cópia. Alterações posteriores no 'original' não alteram as cópias. Portanto, são imutáveis.
