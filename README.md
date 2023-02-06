@@ -28,6 +28,7 @@
 - Valores primitivos e valores por referência;
 - Exercícios para função, array e objetos;
 - Operador ternário;
+- Objeto Date;
 
 ### JavaScript - Lógica de programação
 
