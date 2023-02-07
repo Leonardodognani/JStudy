@@ -44,3 +44,4 @@
 - Objeto Date;
 - Switch/Case;
 - Exercício com Switch e Date (minha resolução);
+- Exercício com Switch e Date (resolução 1 e 2 do professor do curso)
