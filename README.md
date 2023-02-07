@@ -43,3 +43,4 @@
 - Exercício (Mantendo ambas as resoluções - professor e a minha);
 - Objeto Date;
 - Switch/Case;
+- Exercício com Switch e Date (minha resolução);
