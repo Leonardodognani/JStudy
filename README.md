@@ -42,3 +42,4 @@
 - Exercício (Unindo tudo aprendido até aqui e mais)
 - Exercício (Mantendo ambas as resoluções - professor e a minha);
 - Objeto Date;
+- Switch/Case;
