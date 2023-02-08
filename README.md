@@ -47,3 +47,4 @@
 - Exercício com Switch e Date (resolução 1 e 2 do professor do curso)
 - Mais diferenças entre var, let/const;
 - Atribuição via desestruturação (Arrays);
+- Atribuição via desestruturação (Objetos);
