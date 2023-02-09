@@ -49,3 +49,4 @@
 - Atribuição via desestruturação (Arrays);
 - Atribuição via desestruturação (Objetos);
 - For (clássico) - estrutura de repetição;
+- Exercícios com for;
