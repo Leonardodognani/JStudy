@@ -50,3 +50,7 @@
 - Atribuição via desestruturação (Objetos);
 - For (clássico) - estrutura de repetição;
 - Exercícios com for;
+- DOM e a árvore de DOM;
+- For in - Estrutura de repetição;
+- For of - Estrutura de repetição;
+- Exercícios com NodeList(Browser);
