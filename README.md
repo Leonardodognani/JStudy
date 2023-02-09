@@ -48,3 +48,4 @@
 - Mais diferenças entre var, let/const;
 - Atribuição via desestruturação (Arrays);
 - Atribuição via desestruturação (Objetos);
+- For (clássico) - estrutura de repetição;
