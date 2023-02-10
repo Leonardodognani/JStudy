@@ -55,3 +55,4 @@
 - For of - Estrutura de repetição;
 - Exercícios com NodeList(Browser);
 - While e Do While - Estrutura de repetição;
+- Break e Continue;
