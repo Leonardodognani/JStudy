@@ -58,3 +58,4 @@
 - Break e Continue;
 - Exercício com lógica de programação 1;
 - Exercício com lógica de programação 2;
+- Exercício com lógica de programação 3;
