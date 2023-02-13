@@ -60,3 +60,4 @@
 - Exercício com lógica de programação 2;
 - Exercício com lógica de programação 3;
 - Tratando e lançando erros (try, catch, throw);
+- Tratando e lançando erros (try, catch, finally);
