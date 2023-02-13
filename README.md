@@ -56,3 +56,4 @@
 - Exercícios com NodeList(Browser);
 - While e Do While - Estrutura de repetição;
 - Break e Continue;
+- Exercício com lógica de programação 1;
