@@ -62,3 +62,4 @@
 - Tratando e lançando erros (try, catch, throw);
 - Tratando e lançando erros (try, catch, finally);
 - setInterval e setTimeout;
+- Exercício - criando um timer com setInterval;
