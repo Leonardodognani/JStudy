@@ -63,3 +63,4 @@
 - Tratando e lançando erros (try, catch, finally);
 - setInterval e setTimeout;
 - Exercício - criando um timer com setInterval;
+- Criando uma lista de tarefas;
