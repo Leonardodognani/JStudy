@@ -68,3 +68,4 @@
 ### JavaScript - Funções (Avançado)
 
 - As várias maneiras de se declarar funções em JavaScript;
+- Parâmetros da Função;
