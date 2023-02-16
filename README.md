@@ -64,3 +64,7 @@
 - setInterval e setTimeout;
 - Exercício - criando um timer com setInterval;
 - Criando uma lista de tarefas;
+
+### JavaScript - Funções (Avançado)
+
+- As várias maneiras de se declarar funções em JavaScript;
