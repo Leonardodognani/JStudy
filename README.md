@@ -70,3 +70,4 @@
 - As várias maneiras de se declarar funções em JavaScript;
 - Parâmetros da Função;
 - Retorno da Função;
+- Escopo léxico
