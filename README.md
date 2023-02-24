@@ -72,3 +72,4 @@
 - Retorno da Função;
 - Escopo léxico;
 - Closures;
+- Funções de Callback;
