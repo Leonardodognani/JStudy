@@ -73,3 +73,4 @@
 - Escopo léxico;
 - Closures;
 - Funções de Callback;
+- Funções imediatas (IIFE);
