@@ -74,3 +74,4 @@
 - Closures;
 - Funções de Callback;
 - Funções imediatas (IIFE);
+- Funções fábrica (Factory Functions);
