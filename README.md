@@ -75,3 +75,4 @@
 - Funções de Callback;
 - Funções imediatas (IIFE);
 - Funções fábrica (Factory Functions);
+- Praticando com Factory Functions (fazendo uma calculadora);
