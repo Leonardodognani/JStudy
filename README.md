@@ -77,3 +77,4 @@
 - Funções fábrica (Factory Functions);
 - Praticando com Factory Functions (fazendo uma calculadora);
 - Funções contrutoras (Constructor functions);
+- Calculadora com função construtora;
