@@ -79,3 +79,4 @@
 - Funções contrutoras (Constructor functions);
 - Calculadora com função construtora;
 - Funções recursivas;
+- Funções geradoras;
