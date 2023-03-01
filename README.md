@@ -80,3 +80,7 @@
 - Calculadora com função construtora;
 - Funções recursivas;
 - Funções geradoras;
+
+### JavaScript - Arrays (Avançado)
+
+- Revisão do básico em Arrays;
