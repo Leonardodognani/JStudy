@@ -76,3 +76,4 @@
 - Funções imediatas (IIFE);
 - Funções fábrica (Factory Functions);
 - Praticando com Factory Functions (fazendo uma calculadora);
+- Funções contrutoras (Constructor functions);
