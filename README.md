@@ -84,3 +84,5 @@
 ### JavaScript - Arrays (Avançado)
 
 - Revisão do básico em Arrays;
+- Método Splice;
+- Concatenando Arrays;
