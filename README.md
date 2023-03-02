@@ -86,3 +86,4 @@
 - Revisão do básico em Arrays;
 - Método Splice;
 - Concatenando Arrays;
+- Filter - Filtrando o Array;
