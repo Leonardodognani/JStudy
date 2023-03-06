@@ -90,3 +90,7 @@
 - Map - Mapeando o Array;
 - Reduce - Reduzindo o Array;
 - Filter + Map + Reduce;
+
+### JavaScript assíncrono - Promises, Ajax, Fetch e Async/Await
+
+-Promises;
