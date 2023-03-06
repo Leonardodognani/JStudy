@@ -87,3 +87,4 @@
 - Método Splice;
 - Concatenando Arrays;
 - Filter - Filtrando o Array;
+- Map - Mapeando o Array;
