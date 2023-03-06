@@ -89,3 +89,4 @@
 - Filter - Filtrando o Array;
 - Map - Mapeando o Array;
 - Reduce - Reduzindo o Array;
+- Filter + Map + Reduce;
