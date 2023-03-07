@@ -95,3 +95,4 @@
 
 - Promises;
 - Métodos úteis para Promises;
+- Async/Await;
