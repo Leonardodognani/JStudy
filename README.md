@@ -93,4 +93,5 @@
 
 ### JavaScript assíncrono - Promises, Ajax, Fetch e Async/Await
 
--Promises;
+- Promises;
+- Métodos úteis para Promises;
