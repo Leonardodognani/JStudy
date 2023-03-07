@@ -96,3 +96,5 @@
 - Promises;
 - Métodos úteis para Promises;
 - Async/Await;
+- Ajax(Asynchronous JavaScript And XML):
+  -XMLHttpRequest (GET) + Promises
