@@ -97,7 +97,7 @@
 - Métodos úteis para Promises;
 - Async/Await;
 - Ajax(Asynchronous JavaScript And XML):
-  -XMLHttpRequest (GET) + Promises
+  - XMLHttpRequest (GET) + Promises
 - Fetch API (GET);
 - Fecth API e Axious (JSON);
 
