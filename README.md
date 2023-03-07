@@ -98,3 +98,4 @@
 - Async/Await;
 - Ajax(Asynchronous JavaScript And XML):
   -XMLHttpRequest (GET) + Promises
+- Fetch API (GET);
