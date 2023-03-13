@@ -1,5 +1,3 @@
-// Aqui vamos usar o mesmo código para ver uma forma de não precisar ficar parando e reinicializando o node para ver cada atualização.
-
 const express = require("express");
 // não precisa de caminho, pois é do próprio modules.
 const app = express(); // usamos app por convenção
@@ -18,7 +16,7 @@ const app = express(); // usamos app por convenção
 app.get("/", (req, res) => {
   //requisição, resposta
   res.send(
-    `<form action="/" method="POST"> Nome do Cliente: <input type="text" name="nome"><button>Enviar formulário</button></form>`
+    `<form action="/" method="POST"> Nome: <input type="text" name="nome"><button>Enviar</button></form>`
   );
 });
 

@@ -111,3 +111,6 @@
 - Listando arquivos com FS e Recursão mútua;
 - Escrevendo e lendo arquivos;
 - Express - introdução;
+- Express + Nodemon;
+- Express - req.params, req.query e req.body;
+- Express Router e Controllers;
