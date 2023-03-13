@@ -109,4 +109,5 @@
 - NPM - Node Package Manager;
 - Atualizando o Node;
 - Listando arquivos com FS e Recursão mútua;
-- Escrevendo e lendo arquivos
+- Escrevendo e lendo arquivos;
+- Express - introdução;
