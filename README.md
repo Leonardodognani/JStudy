@@ -106,3 +106,7 @@
 - Pasta da seção "node";
 - Módulos(1);
 - Módulos(2);
+- NPM - Node Package Manager;
+- Atualizando o Node;
+- Listando arquivos com FS e Recursão mútua;
+- Escrevendo e lendo arquivos
