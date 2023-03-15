@@ -114,3 +114,6 @@
 - Express + Nodemon;
 - Express - req.params, req.query e req.body;
 - Express Router e Controllers;
+- Express Views;
+- Express Arquivos estáticos;
+- Express + Webpack;
