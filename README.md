@@ -117,3 +117,4 @@
 - Express Views;
 - Express Arquivos estáticos;
 - Express + Webpack;
+- Express Middlewares;
