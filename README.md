@@ -118,3 +118,5 @@
 - Express Arquivos estáticos;
 - Express + Webpack;
 - Express Middlewares;
+- Criando um servidor MongoDB;
+- Soluções de problemas - Recriando o projeto usando Atlas e Compass;
